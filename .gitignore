@@ -17,3 +17,6 @@
 
 # Ignore all secret keys
 /config/secrets.yml
+
+# Ignore the database data
+/db/schema.rb
